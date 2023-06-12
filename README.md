@@ -1,8 +1,10 @@
-## Zain Mirza 🤓
+### Zain Mirza 🤓
 
 Hello there 👋
 
 I’m a data enthusiast with a strong formal background in statistics and business analytics incorporating various technical tools for analysis and visualization. I enjoy identifying patterns and trends to tell a story.
+
+## About ME
 
 <!--
 **zainmirza24/zainmirza24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
