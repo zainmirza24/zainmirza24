@@ -1,4 +1,4 @@
-### Zain Mirza 🤓
+## Zain Mirza 🤓
 
 Hello there 👋
 
