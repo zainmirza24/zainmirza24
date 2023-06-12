@@ -6,7 +6,7 @@ I’m a data enthusiast with a strong formal background in statistics and busine
 
 ### About Me: 
 
-- 🔭 I'm currently working on improving my statistical and analytical knowledge to help generate a positive impact to any company within any indistry
+- 🔭 I'm currently working on improving my statistical and analytical knowledge to help generate a positive impact within any industry
 - 🌱 I’m currently learning PySpark
 - 💬 Ask me about Data Analytics and Data Science. My favorite industries are gaming, music, and sports!
 - 😄 Pronouns: he/him
