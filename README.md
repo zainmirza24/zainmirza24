@@ -18,17 +18,24 @@ I’m a data enthusiast with a strong formal background in statistics and busine
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="left">
  <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </a>
  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+   </a> 
 <a href="#">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   </a>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-  </a> 
+
  
 </p>
 
@@ -36,7 +43,7 @@ I’m a data enthusiast with a strong formal background in statistics and busine
 <p align="left">
 
   <a href="https://www.linkedin.com/in/zainmirza24">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
 
