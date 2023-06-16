@@ -2,13 +2,13 @@
 
 Hello there 👋
 
-I’m a data enthusiast with a strong formal background in statistics and business analytics incorporating various technical tools for analysis and visualization. I enjoy identifying patterns and trends to tell a story.
+I’m a data enthusiast with a strong formal background in statistics and business analytics incorporating various technical tools for analysis and visualization. I enjoy identifying patterns and trends to tell a story. 
 
 ## About Me: 
 
 - 🔭 I'm currently working on improving my technical suite to help generate a positive impact within any industry
 - 🌱 I’m currently learning PySpark
-- 💬 Ask me about Data Analytics and Data Science. My favorite industries are gaming, music, and sports!
+- 💬 Ask me about Analytics and Data Science. My favorite industries are gaming 🎮, music 🎧, and sports 🏀 🏈 ⚽️ 🎾!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was an Instructor for San Francisco State University while pursuing my degree. Go Gators! 🐊💜💛
 
