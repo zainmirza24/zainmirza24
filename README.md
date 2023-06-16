@@ -12,7 +12,7 @@ I’m a data enthusiast with a strong formal background in statistics and busine
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was an Instructor for San Francisco State University while pursuing my degree. Go Gators! 🐊 💜 💛
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=zainmirza24&show_icons=true&hide_rank=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/zainmirza24/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=zainmirza24&show_icons=true&hide_rank=true&title&theme=cobalt)](https://github.com/zainmirza24/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainmirza24&layout=donut)](https://github.com/zainmirza24/github-readme-stats)
 
