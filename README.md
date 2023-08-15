@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-I’m a data enthusiast with a strong formal background in statistics and business analytics incorporating various technical tools for analysis and visualization. I enjoy identifying patterns and trends to tell a story. 
+I’m a data enthusiast with a statistics and business analytics background, incorporating various tools for analysis and visualization. I enjoy being a storyteller to my audience. 
 
 ## About Me: 
 
