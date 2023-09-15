@@ -2,13 +2,13 @@
 
 Hello there 👋
 
-I’m a data enthusiast with a statistics and business analytics background, incorporating various tools for analysis and visualization. I enjoy being a storyteller to my audience. 
+I'm data enthusiast with a formal statistics and business analytics background and roughly 3 years of work experience, I enjoy helping make better decisions with the proper tools to generate business application insights.
 
 ## About Me: 
 
-- 🔭 I'm currently working on improving my technical suite to help generate a positive impact within any industry
-- 🌱 I’m currently learning PySpark
-- 💬 Ask me about Analytics and Data Science. My favorite industries are gaming 🎮, music 🎧, and sports 🏀 🏈 ⚽️ 🎾!
+- 🔭 I'm currently working working with APIs in Python 
+- 🌱 I’m currently learning how to leverage insights through web scraping data
+- 💬 Ask me about Data Science and Analytics. My favorite hobbies are gaming 🎮, music 🎧, and sports 🏀 🏈 ⚽️ 🎾!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was an Instructor for San Francisco State University while pursuing my degree. Go Gators! 🐊 💜 💛
 
