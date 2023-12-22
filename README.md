@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-I'm data enthusiast with a formal statistics and business analytics background and roughly 3 years of work experience, I enjoy helping make better decisions with the proper tools to generate business application insights.
+I'm a data enthusiast with a formal statistics and business analytics background and roughly 3 years of work experience, I enjoy helping make better decisions with the proper tools to generate business application insights.
 
 ## About Me: 
 
